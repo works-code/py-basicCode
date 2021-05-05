@@ -1,2 +1,3 @@
 # py-basicCode
-py-basicCode
+파이썬으로 REST API 구성시 기본으로 많이 쓰는 코드 작성
+정리가 덜 된 상태로 그냥 참고용으로 사용하세요
